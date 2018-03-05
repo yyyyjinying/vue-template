@@ -1,0 +1,24 @@
+*{margin:0;padding:0;}
+#root{ margin:30px auto;width:540px; font-size:24px;}
+.todoBox{ display:flex;flex-direction:column;width:100%; }
+.header{ display:flex;flex-direction:row;height:40px; }
+.header input.txt{ flex:1;font-size:inherit; }
+.header input.check{width:40px;height:40px;}
+.header button{ width:50px;font-size:inherit; }
+
+ul{list-style:none;}
+ul li{align-items:center;height:50px;border-bottom:1px solid #ccc;display:flex;flex-direction:row;}
+ul li{position:relative;}
+ul li > span.txt{flex:1;}
+ul li > span.hasCompleted{text-decoration:line-through;}
+ul li > span.btn{width:40px;text-align:center;}
+ul li .inputText{ font-size:inherit;border:1px solid #999;width:100%;height:100%;position:absolute;left:-1px;top:-1px; }
+
+.check{ width:40px;height:40px; }
+
+.footer{ margin-top:30px;border:1px solid #ccc;display:flex;flex-direction:row; }
+.footer span{ flex:1;text-align:center;line-height:40rpx;border-right:1px solid #ccc; }
+.footer span:last-child{border:0;display:flex;align-items:center;}
+.footer .active{color:red;}
+.footer button{width:100%;height:100%;font-size:inherit;}
+.none{display:none;}
