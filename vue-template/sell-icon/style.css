@@ -1,0 +1,353 @@
+@font-face {
+  font-family: 'sell-icon';
+  src:  url('fonts/sell-icon.eot?m1sk2a');
+  src:  url('fonts/sell-icon.eot?m1sk2a#iefix') format('embedded-opentype'),
+    url('fonts/sell-icon.ttf?m1sk2a') format('truetype'),
+    url('fonts/sell-icon.woff?m1sk2a') format('woff'),
+    url('fonts/sell-icon.svg?m1sk2a#sell-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'sell-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-star:before {
+  content: "\e918";
+}
+.icon-star-fill:before {
+  content: "\e919";
+}
+.icon-t-menu:before {
+  content: "\e91a";
+}
+.icon-item:before {
+  content: "\e91b";
+}
+.icon-t-phone:before {
+  content: "\e91c";
+}
+.icon-t-shop:before {
+  content: "\e91d";
+}
+.icon-t-top:before {
+  content: "\e91e";
+}
+.icon-t-order:before {
+  content: "\e91f";
+}
+.icon-t-code:before {
+  content: "\e920";
+}
+.icon-t-feedback:before {
+  content: "\e922";
+}
+.icon-t-share:before {
+  content: "\e923";
+}
+.icon-t-cart:before {
+  content: "\e924";
+}
+.icon-t-bag:before {
+  content: "\e925";
+}
+.icon-t-close:before {
+  content: "\e926";
+}
+.icon-t-close-b:before {
+  content: "\e927";
+}
+.icon-t-red-bage:before {
+  content: "\e928";
+}
+.icon-t-outdoors:before {
+  content: "\e929";
+}
+.icon-t-add:before {
+  content: "\e92a";
+}
+.icon-t-add-b:before {
+  content: "\e92b";
+}
+.icon-t-add-b-fill:before {
+  content: "\e92c";
+}
+.icon-t-minus:before {
+  content: "\e92d";
+}
+.icon-t-column:before {
+  content: "\e92e";
+}
+.icon-t-severce:before {
+  content: "\e92f";
+}
+.icon-t-classify:before {
+  content: "\e930";
+}
+.icon-t-ul:before {
+  content: "\e931";
+}
+.icon-t-word:before {
+  content: "\e932";
+}
+.icon-t-brand:before {
+  content: "\e933";
+}
+.icon-t-filtrate:before {
+  content: "\e934";
+}
+.icon-t-delete:before {
+  content: "\e935";
+}
+.icon-t-set:before {
+  content: "\e936";
+}
+.icon-t-identity:before {
+  content: "\e937";
+}
+.icon-t-refresh:before {
+  content: "\e938";
+}
+.icon-t-search:before {
+  content: "\e939";
+}
+.icon-t-search-class:before {
+  content: "\e93a";
+}
+.icon-t-power:before {
+  content: "\e93b";
+}
+.icon-t-fill:before {
+  content: "\e93c";
+}
+.icon-t-user-center:before {
+  content: "\e93d";
+}
+.icon-t-logistics:before {
+  content: "\e93e";
+}
+.icon-t-heat:before {
+  content: "\e93f";
+}
+.icon-t-watch:before {
+  content: "\e940";
+}
+.icon-t-bottom-b:before {
+  content: "\e941";
+}
+.icon-t-bottom:before {
+  content: "\e942";
+}
+.icon-t-right-b:before {
+  content: "\e943";
+}
+.icon-t-right:before {
+  content: "\e944";
+}
+.icon-t-cradit:before {
+  content: "\e945";
+}
+.icon-t-select:before {
+  content: "\e946";
+}
+.icon-t-zan:before {
+  content: "\e94a";
+}
+.icon-t-settle:before {
+  content: "\e94b";
+}
+.icon-coord:before {
+  content: "\e94c";
+}
+.icon-add_circle:before {
+  content: "\e903";
+}
+.icon-arrow_lift:before {
+  content: "\e904";
+}
+.icon-check_circle:before {
+  content: "\e905";
+}
+.icon-close:before {
+  content: "\e906";
+}
+.icon-favorite:before {
+  content: "\e907";
+}
+.icon-keyboard_arrow_right:before {
+  content: "\e908";
+}
+.icon-remove_circle_outline:before {
+  content: "\e909";
+}
+.icon-shopping_cart:before {
+  content: "\e90a";
+}
+.icon-thumb_down:before {
+  content: "\e90b";
+}
+.icon-thumb_up:before {
+  content: "\e90c";
+}
+.icon-add_circle2:before {
+  content: "\e90d";
+}
+.icon-arrow_lift2:before {
+  content: "\e90e";
+}
+.icon-check_circle2:before {
+  content: "\e90f";
+}
+.icon-close2:before {
+  content: "\e910";
+}
+.icon-favorite2:before {
+  content: "\e911";
+}
+.icon-keyboard_arrow_right2:before {
+  content: "\e912";
+}
+.icon-remove_circle_outline2:before {
+  content: "\e913";
+}
+.icon-shopping_cart2:before {
+  content: "\e914";
+}
+.icon-thumb_down2:before {
+  content: "\e915";
+}
+.icon-thumb_up2:before {
+  content: "\e916";
+}
+.icon-check:before {
+  content: "\f00c";
+}
+.icon-caret-down:before {
+  content: "\f0d7";
+}
+.icon-angle-right:before {
+  content: "\f105";
+}
+.icon-angle-down:before {
+  content: "\f107";
+}
+.icon-spinner:before {
+  content: "\f110";
+}
+.icon-smile-o:before {
+  content: "\f118";
+}
+.icon-frown-o:before {
+  content: "\f119";
+}
+.icon-file-text:before {
+  content: "\f15c";
+}
+.icon-calculator:before {
+  content: "\f1ec";
+}
+.icon-hand-pointer-o:before {
+  content: "\f25a";
+}
+.icon-volume-control-phone:before {
+  content: "\f2a0";
+}
+.icon-map-marker:before {
+  content: "\e94d";
+}
+.icon-heart2:before {
+  content: "\e94e";
+}
+.icon-video-camera:before {
+  content: "\e94f";
+}
+.icon-trophy:before {
+  content: "\e950";
+}
+.icon-cart:before {
+  content: "\e917";
+}
+.icon-printer:before {
+  content: "\e951";
+}
+.icon-location3:before {
+  content: "\e952";
+}
+.icon-home:before {
+  content: "\e900";
+}
+.icon-home2:before {
+  content: "\e901";
+}
+.icon-home3:before {
+  content: "\e902";
+}
+.icon-library:before {
+  content: "\e921";
+}
+.icon-location:before {
+  content: "\e947";
+}
+.icon-location2:before {
+  content: "\e948";
+}
+.icon-compass:before {
+  content: "\e949";
+}
+.icon-bubbles2:before {
+  content: "\e96d";
+}
+.icon-bubbles4:before {
+  content: "\e970";
+}
+.icon-user:before {
+  content: "\e971";
+}
+.icon-star-empty:before {
+  content: "\e9d7";
+}
+.icon-star-half:before {
+  content: "\e9d8";
+}
+.icon-star-full:before {
+  content: "\e9d9";
+}
+.icon-heart:before {
+  content: "\e9da";
+}
+.icon-heart-broken:before {
+  content: "\e9db";
+}
+.icon-arrow-up:before {
+  content: "\ea32";
+}
+.icon-arrow-up-right:before {
+  content: "\ea33";
+}
+.icon-arrow-right:before {
+  content: "\ea34";
+}
+.icon-arrow-down-right:before {
+  content: "\ea35";
+}
+.icon-arrow-down:before {
+  content: "\ea36";
+}
+.icon-arrow-down-left:before {
+  content: "\ea37";
+}
+.icon-arrow-left:before {
+  content: "\ea38";
+}
